@@ -1,0 +1,7 @@
+C:\Users\scott\source\repos\DynamicSample\bin\Debug\DynamicSample.exe.config
+C:\Users\scott\source\repos\DynamicSample\bin\Debug\DynamicSample.exe
+C:\Users\scott\source\repos\DynamicSample\bin\Debug\DynamicSample.pdb
+C:\Users\scott\source\repos\DynamicSample\obj\Debug\DynamicSample.csprojAssemblyReference.cache
+C:\Users\scott\source\repos\DynamicSample\obj\Debug\DynamicSample.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\DynamicSample\obj\Debug\DynamicSample.exe
+C:\Users\scott\source\repos\DynamicSample\obj\Debug\DynamicSample.pdb
