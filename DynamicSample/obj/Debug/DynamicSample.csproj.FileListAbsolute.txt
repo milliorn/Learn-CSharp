@@ -5,3 +5,10 @@ C:\Users\scott\source\repos\DynamicSample\obj\Debug\DynamicSample.csprojAssembly
 C:\Users\scott\source\repos\DynamicSample\obj\Debug\DynamicSample.csproj.CoreCompileInputs.cache
 C:\Users\scott\source\repos\DynamicSample\obj\Debug\DynamicSample.exe
 C:\Users\scott\source\repos\DynamicSample\obj\Debug\DynamicSample.pdb
+C:\Users\scott\Documents\Coding\Learn-CSharp\DynamicSample\obj\Debug\DynamicSample.csprojAssemblyReference.cache
+C:\Users\scott\Documents\Coding\Learn-CSharp\DynamicSample\obj\Debug\DynamicSample.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\Coding\Learn-CSharp\DynamicSample\obj\Debug\DynamicSample.exe
+C:\Users\scott\Documents\Coding\Learn-CSharp\DynamicSample\obj\Debug\DynamicSample.pdb
+C:\Users\scott\Documents\Coding\Learn-CSharp\DynamicSample\bin\Debug\DynamicSample.exe.config
+C:\Users\scott\Documents\Coding\Learn-CSharp\DynamicSample\bin\Debug\DynamicSample.exe
+C:\Users\scott\Documents\Coding\Learn-CSharp\DynamicSample\bin\Debug\DynamicSample.pdb

@@ -2,18 +2,9 @@
 using System.Dynamic;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DynamicSample
 {
-    public enum StringSearchOption
-    {
-        StartsWith,
-        Contains,
-        EndsWith
-    }
 
     class ReadOnlyFile : DynamicObject
     {
@@ -42,14 +33,14 @@ namespace DynamicSample
             {
                 sr = new StreamReader(p_filePath);
 
-                while(!sr.EndOfStream)
+                while (!sr.EndOfStream)
                 {
                     line = sr.ReadLine();
 
                     //  Perform a case-insensitive search by using the specified search options.
                     testLine = line.ToUpper();
 
-                    if(trimSpaces)
+                    if (trimSpaces)
                     {
                         testLine = testLine.Trim();
                     }
