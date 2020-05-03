@@ -1,0 +1,9 @@
+C:\Users\scott\Desktop\ctlClockLib\bin\Debug\ctlClockLib.dll
+C:\Users\scott\Desktop\ctlClockLib\bin\Debug\ctlClockLib.pdb
+C:\Users\scott\Desktop\ctlClockLib\obj\Debug\ctlClockLib.csprojAssemblyReference.cache
+C:\Users\scott\Desktop\ctlClockLib\obj\Debug\ctlClockLib.ctlClock.resources
+C:\Users\scott\Desktop\ctlClockLib\obj\Debug\ctlClockLib.csproj.GenerateResource.cache
+C:\Users\scott\Desktop\ctlClockLib\obj\Debug\ctlClockLib.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\ctlClockLib\obj\Debug\ctlClockLib.dll
+C:\Users\scott\Desktop\ctlClockLib\obj\Debug\ctlClockLib.pdb
+C:\Users\scott\Desktop\ctlClockLib\obj\Debug\ctlClockLib.ctlAlarmClock.resources
