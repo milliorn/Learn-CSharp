@@ -1,0 +1,6 @@
+C:\Users\scott\source\repos\ValueButtonLib\obj\Debug\ValueButtonLib.csprojAssemblyReference.cache
+C:\Users\scott\source\repos\ValueButtonLib\obj\Debug\ValueButtonLib.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\ValueButtonLib\bin\Debug\ValueButtonLib.dll
+C:\Users\scott\source\repos\ValueButtonLib\bin\Debug\ValueButtonLib.pdb
+C:\Users\scott\source\repos\ValueButtonLib\obj\Debug\ValueButtonLib.dll
+C:\Users\scott\source\repos\ValueButtonLib\obj\Debug\ValueButtonLib.pdb
