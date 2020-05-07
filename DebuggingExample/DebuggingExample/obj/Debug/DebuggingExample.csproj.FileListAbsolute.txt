@@ -1,0 +1,8 @@
+C:\Users\scott\source\repos\DebuggingExample\bin\Debug\DebuggingExample.exe.config
+C:\Users\scott\source\repos\DebuggingExample\bin\Debug\DebuggingExample.exe
+C:\Users\scott\source\repos\DebuggingExample\bin\Debug\DebuggingExample.pdb
+C:\Users\scott\source\repos\DebuggingExample\obj\Debug\DebuggingExample.Properties.Resources.resources
+C:\Users\scott\source\repos\DebuggingExample\obj\Debug\DebuggingExample.csproj.GenerateResource.cache
+C:\Users\scott\source\repos\DebuggingExample\obj\Debug\DebuggingExample.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\DebuggingExample\obj\Debug\DebuggingExample.exe
+C:\Users\scott\source\repos\DebuggingExample\obj\Debug\DebuggingExample.pdb

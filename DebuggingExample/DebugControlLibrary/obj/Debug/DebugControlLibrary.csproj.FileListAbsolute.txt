@@ -1,0 +1,6 @@
+C:\Users\scott\source\repos\DebugControlLibrary\bin\Debug\DebugControlLibrary.dll
+C:\Users\scott\source\repos\DebugControlLibrary\bin\Debug\DebugControlLibrary.pdb
+C:\Users\scott\source\repos\DebugControlLibrary\obj\Debug\DebugControlLibrary.csprojAssemblyReference.cache
+C:\Users\scott\source\repos\DebugControlLibrary\obj\Debug\DebugControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\DebugControlLibrary\obj\Debug\DebugControlLibrary.dll
+C:\Users\scott\source\repos\DebugControlLibrary\obj\Debug\DebugControlLibrary.pdb
