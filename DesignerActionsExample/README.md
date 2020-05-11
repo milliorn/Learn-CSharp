@@ -11,3 +11,5 @@ Changing the orientation of a SplitContainer control.
 To speed development, many controls offer designer actions, which are context-sensitive menus that allow you to perform common tasks like these in a single gesture at design time. These tasks are called designer actions verbs.
 
 Designer actions remain attached to a control instance for its lifetime in the designer and are always available.
+
+<https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/perform-common-tasks-design-actions>
