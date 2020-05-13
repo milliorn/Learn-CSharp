@@ -1,0 +1,7 @@
+C:\Users\scott\source\repos\ConsoleAppLINQ\bin\Debug\ConsoleAppLINQ.exe.config
+C:\Users\scott\source\repos\ConsoleAppLINQ\bin\Debug\ConsoleAppLINQ.exe
+C:\Users\scott\source\repos\ConsoleAppLINQ\bin\Debug\ConsoleAppLINQ.pdb
+C:\Users\scott\source\repos\ConsoleAppLINQ\obj\Debug\ConsoleAppLINQ.csprojAssemblyReference.cache
+C:\Users\scott\source\repos\ConsoleAppLINQ\obj\Debug\ConsoleAppLINQ.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\ConsoleAppLINQ\obj\Debug\ConsoleAppLINQ.exe
+C:\Users\scott\source\repos\ConsoleAppLINQ\obj\Debug\ConsoleAppLINQ.pdb
