@@ -1,0 +1,8 @@
+C:\Users\scott\source\repos\MyFirstVisualizer\bin\Debug\MyFirstVisualizer.dll
+C:\Users\scott\source\repos\MyFirstVisualizer\bin\Debug\MyFirstVisualizer.pdb
+C:\Users\scott\source\repos\MyFirstVisualizer\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\scott\source\repos\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.csprojAssemblyReference.cache
+C:\Users\scott\source\repos\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.csproj.CopyComplete
+C:\Users\scott\source\repos\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.dll
+C:\Users\scott\source\repos\MyFirstVisualizer\obj\Debug\MyFirstVisualizer.pdb

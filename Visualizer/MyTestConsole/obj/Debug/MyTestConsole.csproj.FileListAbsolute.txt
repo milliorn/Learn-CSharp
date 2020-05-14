@@ -1,0 +1,11 @@
+C:\Users\scott\source\repos\MyTestConsole\obj\Debug\MyTestConsole.csprojAssemblyReference.cache
+C:\Users\scott\source\repos\MyTestConsole\obj\Debug\MyTestConsole.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\MyTestConsole\bin\Debug\MyTestConsole.exe.config
+C:\Users\scott\source\repos\MyTestConsole\bin\Debug\MyTestConsole.exe
+C:\Users\scott\source\repos\MyTestConsole\bin\Debug\MyTestConsole.pdb
+C:\Users\scott\source\repos\MyTestConsole\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\scott\source\repos\MyTestConsole\bin\Debug\MyFirstVisualizer.dll
+C:\Users\scott\source\repos\MyTestConsole\bin\Debug\MyFirstVisualizer.pdb
+C:\Users\scott\source\repos\MyTestConsole\obj\Debug\MyTestConsole.csproj.CopyComplete
+C:\Users\scott\source\repos\MyTestConsole\obj\Debug\MyTestConsole.exe
+C:\Users\scott\source\repos\MyTestConsole\obj\Debug\MyTestConsole.pdb
