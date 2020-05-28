@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HelloWorld
 {
@@ -10,7 +6,7 @@ namespace HelloWorld
     {
         static void Main()
         {
-            Console.WriteLine("Hellow World!");
+            Console.WriteLine("Hello World!");
             Console.WriteLine("What is your name? ");
             var name = Console.ReadLine();
             var date = DateTime.Now;

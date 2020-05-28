@@ -5,3 +5,14 @@ C:\Users\scott\source\repos\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyRefere
 C:\Users\scott\source\repos\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\scott\source\repos\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\scott\source\repos\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\bin\Debug\HelloWorld.exe.manifest
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\bin\Debug\HelloWorld.application
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\obj\Debug\HelloWorld.exe.manifest
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorld\obj\Debug\HelloWorld.application
