@@ -1,0 +1,9 @@
+C:\Users\scott\Desktop\ClassLibraryProjects\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.deps.json
+C:\Users\scott\Desktop\ClassLibraryProjects\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\scott\Desktop\ClassLibraryProjects\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\scott\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csprojAssemblyReference.cache
+C:\Users\scott\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Users\scott\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\scott\Desktop\ClassLibraryProjects\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.pdb

@@ -1,0 +1,16 @@
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp3.1\ShowCase.exe
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp3.1\ShowCase.deps.json
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp3.1\ShowCase.runtimeconfig.json
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp3.1\ShowCase.runtimeconfig.dev.json
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp3.1\ShowCase.dll
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp3.1\ShowCase.pdb
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp3.1\StringLibrary.dll
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\bin\Release\netcoreapp3.1\StringLibrary.pdb
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp3.1\ShowCase.csprojAssemblyReference.cache
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp3.1\ShowCase.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp3.1\ShowCase.AssemblyInfo.cs
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp3.1\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp3.1\ShowCase.csproj.CopyComplete
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp3.1\ShowCase.dll
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp3.1\ShowCase.pdb
+C:\Users\scott\Desktop\ClassLibraryProjects\ShowCase\obj\Release\netcoreapp3.1\ShowCase.genruntimeconfig.cache

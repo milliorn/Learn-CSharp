@@ -1,0 +1,9 @@
+C:\Users\scott\Desktop\ClassLibraryProjects\AppLogger\bin\Release\netstandard2.0\AppLogger.deps.json
+C:\Users\scott\Desktop\ClassLibraryProjects\AppLogger\bin\Release\netstandard2.0\AppLogger.dll
+C:\Users\scott\Desktop\ClassLibraryProjects\AppLogger\bin\Release\netstandard2.0\AppLogger.pdb
+C:\Users\scott\Desktop\ClassLibraryProjects\AppLogger\obj\Release\netstandard2.0\AppLogger.csprojAssemblyReference.cache
+C:\Users\scott\Desktop\ClassLibraryProjects\AppLogger\obj\Release\netstandard2.0\AppLogger.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\ClassLibraryProjects\AppLogger\obj\Release\netstandard2.0\AppLogger.AssemblyInfo.cs
+C:\Users\scott\Desktop\ClassLibraryProjects\AppLogger\obj\Release\netstandard2.0\AppLogger.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\ClassLibraryProjects\AppLogger\obj\Release\netstandard2.0\AppLogger.dll
+C:\Users\scott\Desktop\ClassLibraryProjects\AppLogger\obj\Release\netstandard2.0\AppLogger.pdb
