@@ -8,6 +8,8 @@ any .NET implementation that supports that version of .NET Standard. When you
 finish your class library, you can distribute it as a third-party component or
 as a bundled component with one or more applications.
 
-    <https://docs.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio#prerequisites>
-    <https://docs.microsoft.com/en-us/dotnet/core/tutorials/testing-library-with-visual-studio>
-    <https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli>
+<https://docs.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio#prerequisites>
+
+<https://docs.microsoft.com/en-us/dotnet/core/tutorials/testing-library-with-visual-studio>
+
+<https://docs.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli>
