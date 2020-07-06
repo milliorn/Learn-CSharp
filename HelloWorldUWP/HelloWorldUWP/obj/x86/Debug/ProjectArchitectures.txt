@@ -1,1 +1,1 @@
-C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\HelloWorldUWP.csproj;x86
+C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\HelloWorldUWP.csproj;x86

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vltyMLEnQBT3CVLsulgd3rcrVytbNcc+yEU4gzkhtCBR6qZRaBXjHhBhd6uikDvdvZi24UJK2fEeIuNmfyDjaA==",
+  "dgSpecHash": "Pnepi3x0U8Xz9Yk47Kits0B7Pgjs4/ZZneFKHYxK4z/BaBBgkGKk6oQP05C+peCR6JFkRdxI50fg873iATEHMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scott\\Desktop\\HelloWorldUWP\\HelloWorldUWP\\HelloWorldUWP.csproj",
+  "projectFilePath": "C:\\Users\\scott\\Documents\\Coding\\Learn-CSharp\\HelloWorldUWP\\HelloWorldUWP\\HelloWorldUWP.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",

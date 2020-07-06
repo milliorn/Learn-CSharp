@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>3379cc95-19e0-401c-a798-f03ceee9ca6b</PackageIdentityName>
     <PackageIdentityPublisher>CN=scott</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>82916F320E4D87875A218180AAD4786FCCA814E965097162ECBEB2BE8E8A7610</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>EE26F7FFE57BA31A8E97781E368CE002502B279BD5D3EE738C75C809CB017675</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>3379cc95-19e0-401c-a798-f03ceee9ca6b_1.0.0.0_x86__19fz5y1tvxe8g</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>3379cc95-19e0-401c-a798-f03ceee9ca6b_19fz5y1tvxe8g!App</RegisteredUserModeAppID>
     <RegisteredPackageID>3379cc95-19e0-401c-a798-f03ceee9ca6b</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-06-28T01:07:01.909</Modified>
+      <Modified>2020-07-03T01:49:21.653</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\HelloWorldUWP.exe">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\HelloWorldUWP.exe">
       <PackagePath>entrypoint\HelloWorldUWP.exe</PackagePath>
-      <Modified>2020-06-28T01:07:01.532</Modified>
+      <Modified>2020-07-03T01:49:20.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,67 +46,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-19T01:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-06-28T00:57:52.767</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-06-25T00:16:41.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-06-25T00:16:41.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-06-25T00:16:41.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-06-25T00:16:41.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-06-25T00:16:41.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-06-25T00:16:41.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-06-25T00:16:41.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\HelloWorldUWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\HelloWorldUWP.xr.xml">
       <PackagePath>HelloWorldUWP.xr.xml</PackagePath>
       <Modified>2020-06-28T01:07:01.382</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-06-28T01:07:01.385</Modified>
+      <Modified>2020-07-03T01:49:20.031</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-06-28T01:07:01.385</Modified>
+      <Modified>2020-07-03T01:49:20.031</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-19T00:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-06-28T01:00:35.487</Modified>
+      <Modified>2020-07-03T01:49:20.494</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\scott\Desktop\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\Core\HelloWorldUWP.exe">
+    <AppxPackagedFile Include="C:\Users\scott\Documents\Coding\Learn-CSharp\HelloWorldUWP\HelloWorldUWP\bin\x86\Debug\Core\HelloWorldUWP.exe">
       <PackagePath>HelloWorldUWP.exe</PackagePath>
-      <Modified>2020-06-28T01:07:01.889</Modified>
+      <Modified>2020-07-03T01:49:21.626</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -8157,11 +8157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scott\\Desktop\\HelloWorldUWP\\HelloWorldUWP\\HelloWorldUWP.csproj",
+      "projectUniqueName": "C:\\Users\\scott\\Documents\\Coding\\Learn-CSharp\\HelloWorldUWP\\HelloWorldUWP\\HelloWorldUWP.csproj",
       "projectName": "HelloWorldUWP",
-      "projectPath": "C:\\Users\\scott\\Desktop\\HelloWorldUWP\\HelloWorldUWP\\HelloWorldUWP.csproj",
+      "projectPath": "C:\\Users\\scott\\Documents\\Coding\\Learn-CSharp\\HelloWorldUWP\\HelloWorldUWP\\HelloWorldUWP.csproj",
       "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scott\\Desktop\\HelloWorldUWP\\HelloWorldUWP\\obj\\",
+      "outputPath": "C:\\Users\\scott\\Documents\\Coding\\Learn-CSharp\\HelloWorldUWP\\HelloWorldUWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
