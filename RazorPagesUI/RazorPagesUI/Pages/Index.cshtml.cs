@@ -17,9 +17,15 @@ namespace RazorPagesUI.Pages
             _logger = logger;
         }
 
+        [BindProperty(SupportsGet = true)]
+        public string FirstName { get; set; }
+
         public void OnGet()
         {
-
+            if (string.IsNullOrWhiteSpace(FirstName))
+            {
+                FirstName = "User";
+            }
         }
     }
 }
