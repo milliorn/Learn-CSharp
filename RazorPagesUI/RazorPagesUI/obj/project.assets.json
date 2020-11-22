@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scott\\Desktop\\RazorPagesUI\\RazorPagesUI\\RazorPagesUI.csproj",
+      "projectUniqueName": "C:\\Users\\scott\\Documents\\Coding\\Learn-CSharp\\RazorPagesUI\\RazorPagesUI\\RazorPagesUI.csproj",
       "projectName": "RazorPagesUI",
-      "projectPath": "C:\\Users\\scott\\Desktop\\RazorPagesUI\\RazorPagesUI\\RazorPagesUI.csproj",
+      "projectPath": "C:\\Users\\scott\\Documents\\Coding\\Learn-CSharp\\RazorPagesUI\\RazorPagesUI\\RazorPagesUI.csproj",
       "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scott\\Desktop\\RazorPagesUI\\RazorPagesUI\\obj\\",
+      "outputPath": "C:\\Users\\scott\\Documents\\Coding\\Learn-CSharp\\RazorPagesUI\\RazorPagesUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
