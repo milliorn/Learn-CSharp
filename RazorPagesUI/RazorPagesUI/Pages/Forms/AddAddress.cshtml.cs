@@ -9,6 +9,9 @@ namespace RazorPagesUI.Pages.Forms
 {
     public class AddAddressModel : PageModel
     {
+        [BindProperty]
+        public AddAddressModel Address { get; set; }
+
         public void OnGet()
         {
         }
