@@ -26,3 +26,5 @@ Contains code that configures app behavior. For more information, see App startu
 <https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0>
 
 <https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio>
+
+<https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-5.0&tabs=visual-studio-code#use-sqlite-for-development-sql-server-for-production>
