@@ -9,7 +9,6 @@ C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\bin\Debug\net5.0\ref\RazorPa
 C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.pdb
 C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.Views.dll
 C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.Views.pdb
-C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.csprojAssemblyReference.cache
 C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.AssemblyInfoInputs.cache
 C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.AssemblyInfo.cs
@@ -149,3 +148,4 @@ C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages
 C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Details.cshtml.g.cs
 C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Edit.cshtml.g.cs
 C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Index.cshtml.g.cs
+C:\Users\scott\Desktop\Learn-CSharp\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.csproj.AssemblyReference.cache
