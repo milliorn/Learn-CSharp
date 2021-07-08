@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Net.Http;
+using System.Net.Http.Json;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+
 
 namespace JSONHowTo
 {
@@ -128,6 +131,25 @@ namespace JSONHowTo
             roundTrippedJson = JsonSerializer.Serialize<Forecast>(newForecast);
 
             Console.WriteLine($"Output JSON: {roundTrippedJson}");
+
+            //  HttpClient and HttpContent
+            using HttpClient client = new()
+            {
+                BaseAddress = new Uri("https://jsonplaceholder.typicode.com")
+            };
+
+            Console.WriteLine("\nHttpClient and HttpContent\n\nGet the user information\n");
+
+            // Get the user information.
+            User user = await client.GetFromJsonAsync<User>("users/1");
+            Console.WriteLine($"Id: {user.Id}");
+            Console.WriteLine($"Name: {user.Name}");
+            Console.WriteLine($"Username: {user.Username}");
+            Console.WriteLine($"Email: {user.Email}");
+            Console.WriteLine("\nPost a new user\n");
+            // Post a new user
+            HttpResponseMessage response = await client.PostAsJsonAsync("users", user);
+            Console.WriteLine($"{(response.IsSuccessStatusCode ? "Success" : "Error")} - {response.StatusCode}");
         }
 
         private static void DeserializeFromUTF8(byte[] jsonUtf8Bytes)
