@@ -88,7 +88,7 @@ namespace JSONHowTo
 ";
             //  Deserialize a JSON string:
             WeatherForecast weatherForecast = JsonSerializer.Deserialize<WeatherForecast>(jsonString);
-            Console.WriteLine("\n"); 
+            Console.WriteLine("\n");
             Console.WriteLine($"Date: {weatherForecast.Date}");
             Console.WriteLine($"TemperatureCelsius: {weatherForecast.TemperatureCelsius}");
             Console.WriteLine($"Summary: {weatherForecast.Summary}");
@@ -105,12 +105,35 @@ namespace JSONHowTo
             jsonString = JsonSerializer.Serialize(weatherForecast, options);
             Console.WriteLine("\nSerialize to formatted JSON\n\n" + jsonString);
 
+            //  Include fields when serializing or deserializing
+            string json = @"{""Date"":""2020-09-06T11:31:01.923395"",""TemperatureC"":-1,""Summary"":""Cold""} ";
+            Console.WriteLine($"Input JSON: {json}");
+            options = new JsonSerializerOptions { IncludeFields = true };
+            Forecast newForecast = JsonSerializer.Deserialize<Forecast>(json, options);
+
+            Console.WriteLine($"forecast.Date: {newForecast.Date}");
+            Console.WriteLine($"forecast.TemperatureC: {newForecast.TemperatureC}");
+            Console.WriteLine($"forecast.Summary: {newForecast.Summary}");
+
+            string roundTrippedJson = JsonSerializer.Serialize<Forecast>(newForecast, options);
+
+            Console.WriteLine($"Output JSON: {roundTrippedJson}");
+
+            var forecast2 = JsonSerializer.Deserialize<Forecast>(json);
+
+            Console.WriteLine($"forecast2.Date: {forecast2.Date}");
+            Console.WriteLine($"forecast2.TemperatureC: {forecast2.TemperatureC}");
+            Console.WriteLine($"forecast2.Summary: {forecast2.Summary}");
+
+            roundTrippedJson = JsonSerializer.Serialize<Forecast>(newForecast);
+
+            Console.WriteLine($"Output JSON: {roundTrippedJson}");
         }
 
         private static void DeserializeFromUTF8(byte[] jsonUtf8Bytes)
         {
             ReadOnlySpan<byte> readOnlySpan = new ReadOnlySpan<byte>(jsonUtf8Bytes);
-            WeatherForecast  deserializedWeatherForecast = JsonSerializer.Deserialize<WeatherForecast>(readOnlySpan);
+            WeatherForecast deserializedWeatherForecast = JsonSerializer.Deserialize<WeatherForecast>(readOnlySpan);
         }
 
         private static void SerializeFromUTF8(byte[] jsonUft8Bytes)
