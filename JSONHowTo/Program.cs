@@ -87,6 +87,7 @@ namespace JSONHowTo
 ";
             //  Deserialize a JSON string:
             WeatherForecast weatherForecast = JsonSerializer.Deserialize<WeatherForecast>(jsonString);
+            Console.WriteLine("\n"); 
             Console.WriteLine($"Date: {weatherForecast.Date}");
             Console.WriteLine($"TemperatureCelsius: {weatherForecast.TemperatureCelsius}");
             Console.WriteLine($"Summary: {weatherForecast.Summary}");
@@ -97,6 +98,24 @@ namespace JSONHowTo
             Console.WriteLine($"Date: {weatherForecast.Date}");
             Console.WriteLine($"TemperatureCelsius: {weatherForecast.TemperatureCelsius}");
             Console.WriteLine($"Summary: {weatherForecast.Summary}");
+            DeserializeFromUTF8(jsonUtf8Bytes);
+
+            //  To pretty-print the JSON output
+            jsonString = JsonSerializer.Serialize(weatherForecast, options);
+            Console.WriteLine("\nSerialize to formatted JSON\n\n" + jsonString);
+
+        }
+
+        private static void DeserializeFromUTF8(byte[] jsonUtf8Bytes)
+        {
+            ReadOnlySpan<byte> readOnlySpan = new ReadOnlySpan<byte>(jsonUtf8Bytes);
+            WeatherForecast  deserializedWeatherForecast = JsonSerializer.Deserialize<WeatherForecast>(readOnlySpan);
+        }
+
+        private static void SerializeFromUTF8(byte[] jsonUft8Bytes)
+        {
+            Utf8JsonReader utf8Reader = new Utf8JsonReader(jsonUft8Bytes);
+            WeatherForecast deserializedWeatherForecast = JsonSerializer.Deserialize<WeatherForecast>(ref utf8Reader);
         }
     }
 }
