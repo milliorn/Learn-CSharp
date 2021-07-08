@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
@@ -51,6 +52,12 @@ namespace JSONHowTo
             var options = new JsonSerializerOptions { WriteIndented = true };
             jsonString = JsonSerializer.Serialize(weather, options);
             Console.WriteLine(jsonString + "\n");
+
+            //  Serializing to a UTF-8 byte array is about 5-10% faster than using the string-based methods. 
+            //  The difference is because the bytes (as UTF-8) don't need to be converted to strings (UTF-16).
+            //  https://stackoverflow.com/questions/10940883/c-converting-byte-array-to-string-and-printing-out-to-console
+            byte[] jsonUtf8Bytes = JsonSerializer.SerializeToUtf8Bytes(weather);
+            Console.WriteLine(Encoding.UTF8.GetString(jsonUtf8Bytes));
         }
     }
 }
