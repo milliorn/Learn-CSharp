@@ -28,36 +28,36 @@ namespace JSONHowTo
                 SummaryWords = new[] { "Cool", "Windy", "Humid" }
             };
 
-            // The following example creates JSON as a string:
+            //  The following example creates JSON as a string
             string jsonString = JsonSerializer.Serialize(weather);
-            Console.WriteLine(jsonString + "\n");
+            Console.WriteLine("Create JSON as a string\n\n" + jsonString + "\n");
 
-            //The following example uses synchronous code to create a JSON file
+            //  The following example uses synchronous code to create a JSON file
             string fileName = "WeatherForecast.json";
             File.WriteAllText(fileName, jsonString);
 
-            // The following example uses asynchronous code to create a JSON file:
+            //  The following example uses asynchronous code to create a JSON file
             fileName = "WeatherForecastAsync.json";
             using FileStream createStream = File.Create(fileName);
             await JsonSerializer.SerializeAsync(createStream, weather);
             await createStream.DisposeAsync();
-            Console.WriteLine(File.ReadAllText(fileName) + "\n");
+            Console.WriteLine("Asynchronous code to create a JSON file\n\n" + File.ReadAllText(fileName) + "\n");
 
             //  The preceding examples use type inference for the type being serialized. 
             //  An overload of Serialize() takes a generic type parameter
             jsonString = JsonSerializer.Serialize<WeatherForecast>(weather);
-            Console.WriteLine(jsonString + "\n");
+            Console.WriteLine("Type Inference\n\n" + jsonString + "\n");
 
             //  User-defined type is serialized
             var options = new JsonSerializerOptions { WriteIndented = true };
             jsonString = JsonSerializer.Serialize(weather, options);
-            Console.WriteLine(jsonString + "\n");
+            Console.WriteLine("User-Defined Type Serialized\n\n" + jsonString + "\n");
 
             //  Serializing to a UTF-8 byte array is about 5-10% faster than using the string-based methods. 
             //  The difference is because the bytes (as UTF-8) don't need to be converted to strings (UTF-16).
             //  https://stackoverflow.com/questions/10940883/c-converting-byte-array-to-string-and-printing-out-to-console
             byte[] jsonUtf8Bytes = JsonSerializer.SerializeToUtf8Bytes(weather);
-            Console.WriteLine(Encoding.UTF8.GetString(jsonUtf8Bytes));
+            Console.WriteLine("Serializing to a UTF-8 Byte Array\n\n" + Encoding.UTF8.GetString(jsonUtf8Bytes));
 
             jsonString =
 @"{
@@ -87,6 +87,13 @@ namespace JSONHowTo
 ";
             //  Deserialize a JSON string:
             WeatherForecast weatherForecast = JsonSerializer.Deserialize<WeatherForecast>(jsonString);
+            Console.WriteLine($"Date: {weatherForecast.Date}");
+            Console.WriteLine($"TemperatureCelsius: {weatherForecast.TemperatureCelsius}");
+            Console.WriteLine($"Summary: {weatherForecast.Summary}");
+
+            //  To deserialize from a file by using asynchronous code
+            using FileStream openStream = File.OpenRead(fileName);
+            WeatherForecast forecast = await JsonSerializer.DeserializeAsync<WeatherForecast>(openStream);
             Console.WriteLine($"Date: {weatherForecast.Date}");
             Console.WriteLine($"TemperatureCelsius: {weatherForecast.TemperatureCelsius}");
             Console.WriteLine($"Summary: {weatherForecast.Summary}");
