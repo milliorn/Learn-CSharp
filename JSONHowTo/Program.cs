@@ -31,6 +31,11 @@ namespace JSONHowTo
             await JsonSerializer.SerializeAsync(createStream, weather);
             await createStream.DisposeAsync();
             Console.WriteLine(File.ReadAllText(fileName));
+
+            //  The preceding examples use type inference for the type being serialized. 
+            //  An overload of Serialize() takes a generic type parameter
+            jsonString = JsonSerializer.Serialize<WeatherForecast>(weather);
+            Console.WriteLine(jsonString);
         }
     }
 }
