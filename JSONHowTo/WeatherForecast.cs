@@ -16,10 +16,4 @@ namespace JSONHowTo
         public Dictionary<string, HighLowTemps> TemperatureRanges { get; set; }
         public string[] SummaryWords { get; set; }
     }
-
-    public class HighLowTemps
-    {
-        public int High { get; set; }
-        public int Low { get; set; }
-    }
 }
