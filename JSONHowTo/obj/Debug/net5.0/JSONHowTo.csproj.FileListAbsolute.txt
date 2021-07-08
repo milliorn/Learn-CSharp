@@ -1,0 +1,16 @@
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\bin\Debug\net5.0\JSONHowTo.exe
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\bin\Debug\net5.0\JSONHowTo.deps.json
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\bin\Debug\net5.0\JSONHowTo.runtimeconfig.json
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\bin\Debug\net5.0\JSONHowTo.runtimeconfig.dev.json
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\bin\Debug\net5.0\JSONHowTo.dll
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\bin\Debug\net5.0\ref\JSONHowTo.dll
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\bin\Debug\net5.0\JSONHowTo.pdb
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\obj\Debug\net5.0\JSONHowTo.csproj.AssemblyReference.cache
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\obj\Debug\net5.0\JSONHowTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\obj\Debug\net5.0\JSONHowTo.AssemblyInfoInputs.cache
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\obj\Debug\net5.0\JSONHowTo.AssemblyInfo.cs
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\obj\Debug\net5.0\JSONHowTo.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\obj\Debug\net5.0\JSONHowTo.dll
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\obj\Debug\net5.0\ref\JSONHowTo.dll
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\obj\Debug\net5.0\JSONHowTo.pdb
+C:\Users\scott\Documents\Coding\Learn-CSharp\JSONHowTo\obj\Debug\net5.0\JSONHowTo.genruntimeconfig.cache
